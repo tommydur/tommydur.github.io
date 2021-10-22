@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'ka1';
+    src: url('ka1.ttf');
+}
+
+body {
+    background-color: #1b1b21;
+    color: #f5f5ff;
+    font-family: 'ka1';
+    margin: 0px;
+}
+
+.main-container {
+    width: 100%;
+    padding: 0px;
+}
+
+.header {
+    width: 100%;
+    background-color: #59596e;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0px;
+}
+
+.header h1 {
+    text-align: center;
+}
+
+.content {
+    padding-top: 15px;
+    font-size: small;
+}
+
+.content h4 {
+    color: #8d8df2;
+}
+
+.side-img {
+    margin: 10px;
+    max-width: 90%;
+    border-radius: 0.4em;
+}
